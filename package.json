@@ -1,0 +1,17 @@
+{
+  "name": "todo_app",
+  "version": "1.0.0",
+  "description": "I made a text box and submit buttton. When we enter an item in it it adds it in the list. We can delete an item by clicking on the delete option. I used local storage which stores my items in the list.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^3.2.6",
+    "async": "^0.2.10",
+    "socket.io": "^0.9.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
